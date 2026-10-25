@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="tunila-banner.svg" alt="Tunila — کلاینت ویندوز" width="100%">
+  <img src="tunila-banner.svg" alt="Tunila — ویندوز و اندروید" width="100%">
 </p>
 
 <div dir="rtl">
@@ -8,18 +8,18 @@
 
 لینک اشتراکت را اضافه کن، سرورت را انتخاب کن و وصل شو.
 
-**[دریافت نسخهٔ ویندوز](https://github.com/SevinEW/Tunila-Releases/releases/tag/v0.7.16-preview)** · [راهنمای استفاده](SUPPORT.md) · [تغییرات](CHANGELOG.md) · [گزارش مشکل](https://github.com/SevinEW/Tunila-Releases/issues)
+**[دریافت اندروید](https://github.com/SevinEW/Tunila-Releases/releases/tag/v0.7.18-android-preview)** · **[دریافت نسخهٔ ویندوز](https://github.com/SevinEW/Tunila-Releases/releases/tag/v0.7.16-preview)** · [راهنمای استفاده](SUPPORT.md) · [تغییرات](CHANGELOG.md) · [گزارش مشکل](https://github.com/SevinEW/Tunila-Releases/issues)
 
 ## دانلود
 
 | سیستم | نسخه | دریافت |
 | :--- | :--- | :--- |
 | Windows · x64 | **۰٫۷٫۱۶ آزمایشی** | [نصب‌کنندهٔ EXE](https://github.com/SevinEW/Tunila-Releases/releases/download/v0.7.16-preview/Tunila-Setup-0.7.16-dev-win-x64.exe) |
-| Android | هنوز منتشر نشده | — |
+| Android · ARM64 / ARMv7 / x86_64 | **۰٫۷٫۱۸ آزمایشی** | [APK امضاشده](https://github.com/SevinEW/Tunila-Releases/releases/download/v0.7.18-android-preview/Tunila-0.7.18-android.apk) |
 
 [وضعیت سایر معماری‌ها](DOWNLOADS.md) · [همهٔ انتشارها](https://github.com/SevinEW/Tunila-Releases/releases)
 
-> **پیش از نصب:** این نسخه آزمایشی و بدون امضای دیجیتال است. ارتقا از ۰٫۷٫۵ ممکن است متوقف شود؛ [جزئیات مشکل نصب](SUPPORT.md) را بخوان.
+> **ویندوز:** این نسخه آزمایشی و بدون امضای دیجیتال است. ارتقا از ۰٫۷٫۵ ممکن است متوقف شود؛ [جزئیات مشکل نصب](SUPPORT.md) را بخوان.
 
 ## شروع استفاده
 
@@ -29,7 +29,9 @@
 
 هر اشتراک لیست خودش را دارد. کانفیگ‌های تکی در «دیفالت» می‌مانند.
 
-## امکانات
+اندروید ۸ یا بالاتر و Android System WebView به‌روز لازم است. مجوز VPN خود اندروید هنگام اولین اتصال نمایش داده می‌شود. [امکانات و محدودهٔ نسخهٔ اندروید](https://github.com/SevinEW/Tunila-Releases/releases/tag/v0.7.18-android-preview)
+
+## امکانات نسخهٔ ویندوز
 
 - **اشتراک‌ها:** به‌روزرسانی، ویرایش، حذف و اشتراک‌گذاری با لینک یا QR.
 - **سرورها:** بررسی تأخیر، انتخاب سریع‌ترین و یادآوری آخرین سرور متصل‌شده.
@@ -40,14 +42,14 @@
 
 ## پشتیبانی
 
-برای [گزارش مشکل](https://github.com/SevinEW/Tunila-Releases/issues)، نسخهٔ برنامه و ویندوز، مراحل تکرار و متن خطا را بنویس. **لینک ساب، رمز و کلید خصوصی را نفرست.**
+برای [گزارش مشکل](https://github.com/SevinEW/Tunila-Releases/issues)، نسخهٔ برنامه و سیستم‌عامل، مراحل تکرار و متن خطا را بنویس. **لینک ساب، رمز و کلید خصوصی را نفرست.**
 
 [نصب و رفع اشکال](SUPPORT.md) · [حریم خصوصی و امنیت](SECURITY.md)
 
 <details>
 <summary>دربارهٔ نسخهٔ آزمایشی</summary>
 
-بستهٔ فعلی برای Windows x64 ساخته شده است. انتشار x86، ARM64 و اندروید به آماده‌شدن و بررسی نسخهٔ مخصوص هر پلتفرم نیاز دارد.
+نسخهٔ آزمایشی اندروید و ساخت‌های اولیهٔ Windows x86 و ARM64 نیز منتشر شده‌اند. وضعیت آزمون هر بسته را در [صفحهٔ نسخه‌ها](DOWNLOADS.md) بخوان.
 
 آزمون نصب و اتصال روی سیستم‌های هدف هنوز کامل نشده است. این نسخه کیل‌سوییچ دائمی ندارد؛ با قطع تونل، اینترنت مستقیم در دسترس قرار می‌گیرد.
 
