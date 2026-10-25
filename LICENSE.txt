@@ -1,0 +1,5 @@
+Tunila application source, original product design and brand: All rights reserved.
+
+This repository distributes installers and documentation only. Publishing these files does not grant an open-source license to Tunila's proprietary application source or brand assets.
+
+Third-party components retain their own licenses. Their notices and the modified Xray core source archive are provided with the installation package.

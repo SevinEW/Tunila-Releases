@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="360" viewBox="0 0 1440 360" fill="none" role="img" aria-label="Tunila — Windows client">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1440" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#151B32"/><stop offset=".56" stop-color="#101421"/><stop offset="1" stop-color="#171B2C"/></linearGradient>
+    <linearGradient id="mark" x1="0" y1="5" x2="45" y2="47" gradientUnits="userSpaceOnUse"><stop stop-color="#9ED9FF"/><stop offset=".48" stop-color="#568EFF"/><stop offset="1" stop-color="#7770EA"/></linearGradient>
+    <linearGradient id="line" x1="75" y1="0" x2="1365" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#8A89C6" stop-opacity=".4"/><stop offset="1" stop-color="#8A89C6" stop-opacity="0"/></linearGradient>
+    <g id="portal">
+      <path d="M10.5 40.5V22.5C10.5 18.9196 11.9223 15.4858 14.4541 12.9541C16.9858 10.4223 20.4196 9 24 9C27.5804 9 31.0142 10.4223 33.5459 12.9541C36.0777 15.4858 37.5 18.9196 37.5 22.5V40.5" stroke="url(#mark)" stroke-width="6.75" stroke-linecap="round"/>
+      <path d="M19.875 40.5V24C19.875 22.906 20.3096 21.8568 21.0832 21.0832C21.8568 20.3096 22.906 19.875 24 19.875C25.094 19.875 26.1432 20.3096 26.9168 21.0832C27.6904 21.8568 28.125 22.906 28.125 24" stroke="url(#mark)" stroke-width="3.75" stroke-linecap="round"/>
+    </g>
+  </defs>
+  <rect width="1440" height="360" rx="24" fill="url(#bg)"/>
+  <rect x=".5" y=".5" width="1439" height="359" rx="23.5" stroke="#ADB9EC" stroke-opacity=".14"/>
+  <g opacity=".065" transform="translate(1015 -46) scale(9)"><use href="#portal"/></g>
+  <path d="M1000 0V360M1120 0V360M1240 0V360M1360 0V360M940 90H1440M940 180H1440M940 270H1440" stroke="#C1CAEF" stroke-opacity=".025"/>
+  <g transform="translate(68 87) scale(3.55)"><use href="#portal"/></g>
+  <text x="273" y="204" fill="#F1F2FC" font-family="Segoe UI,Arial,sans-serif" font-size="100" font-weight="600" letter-spacing="-4">Tunila</text>
+  <text x="280" y="246" fill="#A5AEC7" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="500" letter-spacing="5">WINDOWS CLIENT</text>
+  <path d="M79 298H1360" stroke="url(#line)"/>
+</svg>
