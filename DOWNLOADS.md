@@ -7,11 +7,13 @@
 | سیستم و معماری | وضعیت | دانلود |
 | :--- | :--- | :--- |
 | Windows x64 | ۰٫۷٫۱۶ آزمایشی؛ دارای ایراد شناخته‌شدهٔ ارتقا | [EXE و توضیحات نسخه](https://github.com/SevinEW/Tunila-Releases/releases/tag/v0.7.16-preview) |
-| Windows ARM64 | هنوز ساخته و تأیید نشده | — |
-| Windows x86 / 32-bit | هنوز ساخته و تأیید نشده | — |
-| Android arm64-v8a | هنوز APK آماده ندارد | — |
-| Android armeabi-v7a / 32-bit | هنوز APK آماده ندارد | — |
-| Android x86_64 | هنوز APK آماده ندارد | — |
+| Windows ARM64 | ۰٫۷٫۱۷ ساخت اولیه؛ اتصال روی دستگاه هدف تأیید نشده | [بسته و محدودیت‌ها](https://github.com/SevinEW/Tunila-Releases/releases/tag/v0.7.17-ports-preview) |
+| Windows x86 / 32-bit | ۰٫۷٫۱۷ ساخت اولیه؛ اتصال روی دستگاه هدف تأیید نشده | [بسته و محدودیت‌ها](https://github.com/SevinEW/Tunila-Releases/releases/tag/v0.7.17-ports-preview) |
+| Android arm64-v8a | ۰٫۷٫۱۸ آزمایشی؛ APK مشترک، اندروید ۸+ | [APK و جزئیات آزمون](https://github.com/SevinEW/Tunila-Releases/releases/tag/v0.7.18-android-preview) |
+| Android armeabi-v7a / 32-bit | ۰٫۷٫۱۸ آزمایشی؛ APK مشترک، اندروید ۸+ | [APK و جزئیات آزمون](https://github.com/SevinEW/Tunila-Releases/releases/tag/v0.7.18-android-preview) |
+| Android x86_64 | ۰٫۷٫۱۸ آزمایشی؛ APK مشترک، اندروید ۸+ | [APK و جزئیات آزمون](https://github.com/SevinEW/Tunila-Releases/releases/tag/v0.7.18-android-preview) |
+
+اندروید: آزمون رابط، ساب، TCP و UDP روی شبیه‌سازهای اندروید ۱۰ و ۱۴ x86_64 انجام شده است. آزمون گوشی فیزیکی ARM و سازگاری همهٔ پروتکل‌ها هنوز انجام نشده است. Android System WebView را به‌روز نگه دارید.
 
 ## ویندوزهای قدیمی
 
