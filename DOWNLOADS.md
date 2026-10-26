@@ -6,14 +6,14 @@
 
 | سیستم و معماری | وضعیت | دانلود |
 | :--- | :--- | :--- |
-| Windows x64 | ۰٫۷٫۱۶ آزمایشی؛ دارای ایراد شناخته‌شدهٔ ارتقا | [EXE و توضیحات نسخه](https://github.com/SevinEW/Tunila-Releases/releases/tag/v0.7.16-preview) |
+| Windows x64 | ۰٫۷٫۲۴ بتا؛ ساخت تأییدشده، آزمون نصب روی سیستم کاربر انجام نشده | [EXE و توضیحات نسخه](https://github.com/SevinEW/Tunila-Releases/releases/tag/v0.7.24-beta.1) |
 | Windows ARM64 | ۰٫۷٫۱۷ ساخت اولیه؛ اتصال روی دستگاه هدف تأیید نشده | [بسته و محدودیت‌ها](https://github.com/SevinEW/Tunila-Releases/releases/tag/v0.7.17-ports-preview) |
 | Windows x86 / 32-bit | ۰٫۷٫۱۷ ساخت اولیه؛ اتصال روی دستگاه هدف تأیید نشده | [بسته و محدودیت‌ها](https://github.com/SevinEW/Tunila-Releases/releases/tag/v0.7.17-ports-preview) |
-| Android arm64-v8a | ۰٫۷٫۱۸ آزمایشی؛ APK مشترک، اندروید ۸+ | [APK و جزئیات آزمون](https://github.com/SevinEW/Tunila-Releases/releases/tag/v0.7.18-android-preview) |
-| Android armeabi-v7a / 32-bit | ۰٫۷٫۱۸ آزمایشی؛ APK مشترک، اندروید ۸+ | [APK و جزئیات آزمون](https://github.com/SevinEW/Tunila-Releases/releases/tag/v0.7.18-android-preview) |
-| Android x86_64 | ۰٫۷٫۱۸ آزمایشی؛ APK مشترک، اندروید ۸+ | [APK و جزئیات آزمون](https://github.com/SevinEW/Tunila-Releases/releases/tag/v0.7.18-android-preview) |
+| Android arm64-v8a | ۰٫۷٫۲۴ بتا؛ APK جداگانه، اندروید ۸+ | [APK و جزئیات آزمون](https://github.com/SevinEW/Tunila-Releases/releases/tag/v0.7.24-beta.1) |
+| Android armeabi-v7a / 32-bit | ۰٫۷٫۲۴ بتا؛ APK جداگانه، اندروید ۸+ | [APK و جزئیات آزمون](https://github.com/SevinEW/Tunila-Releases/releases/tag/v0.7.24-beta.1) |
+| Android x86_64 | ۰٫۷٫۲۴ بتا؛ APK جداگانه، اندروید ۸+ | [APK و جزئیات آزمون](https://github.com/SevinEW/Tunila-Releases/releases/tag/v0.7.24-beta.1) |
 
-اندروید: آزمون رابط، ساب، TCP و UDP روی شبیه‌سازهای اندروید ۱۰ و ۱۴ x86_64 انجام شده است. آزمون گوشی فیزیکی ARM و سازگاری همهٔ پروتکل‌ها هنوز انجام نشده است. Android System WebView را به‌روز نگه دارید.
+اندروید ۰٫۷٫۲۴: چهار آزمون رابط، تنظیمات، ساب و ذخیره‌سازی، و اتصال Shadowsocks با TCP/UDP روی شبیه‌ساز اندروید ۱۴ x86_64 موفق بودند. آزمون گوشی فیزیکی ARM و سازگاری همهٔ پروتکل‌ها هنوز انجام نشده است. Android System WebView را به‌روز نگه دارید.
 
 ## ویندوزهای قدیمی
 
