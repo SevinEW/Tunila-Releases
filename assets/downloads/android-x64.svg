@@ -1,13 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="92" viewBox="0 0 320 92" role="img" aria-label="ANDROID x86_64 Emulators">
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#202039"/><stop offset="1" stop-color="#142836"/></linearGradient><linearGradient id="edge"><stop stop-color="#a99aff"/><stop offset=".55" stop-color="#5e6591"/><stop offset="1" stop-color="#6de1df"/></linearGradient><linearGradient id="shine" x2="0" y2="1"><stop stop-color="#fff" stop-opacity=".13"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
-<rect x="2" y="4" width="316" height="86" rx="20" fill="#080b16"/>
-<rect x="1" y="1" width="318" height="85" rx="20" fill="url(#bg)" stroke="url(#edge)" stroke-opacity=".4"/>
-<rect x="4" y="4" width="312" height="40" rx="17" fill="url(#shine)"/>
-<path d="M24 66h272" stroke="#b6aeef" stroke-opacity=".1"/>
-<rect x="18" y="20" width="44" height="44" rx="14" fill="#b9acff" fill-opacity=".09" stroke="#b9acff" stroke-opacity=".24"/>
-<g stroke="#b5e5fa" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M40 30v20m-7-7 7 7 7-7m-16 8v4h18v-4"/></g>
-<text x="77" y="32" fill="#aebbd4" font-size="10" font-weight="600" letter-spacing="1.6" font-family="Segoe UI,Arial,sans-serif">ANDROID</text>
-<text x="77" y="55" fill="#f4f3ff" font-size="20" font-weight="700" font-family="Segoe UI,Arial,sans-serif">x86_64</text>
-<text x="300" y="51" text-anchor="end" fill="#b7b7cf" font-size="11" font-family="Segoe UI,Arial,sans-serif">Emulators</text>
-<circle cx="293" cy="23" r="3" fill="#a89bf0"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="48" viewBox="0 0 250 48" role="img" aria-label="Android x86_64 · APK download"><defs><linearGradient id="b"><stop stop-color="#252841"/><stop offset="1" stop-color="#142a34"/></linearGradient><linearGradient id="e"><stop stop-color="#a69aff"/><stop offset="1" stop-color="#95e5c5"/></linearGradient></defs><rect x="1" y="1" width="248" height="46" rx="12" fill="url(#b)" stroke="url(#e)" stroke-opacity=".7"/><path d="M15 3h220" stroke="#fff" stroke-opacity=".16"/><g color="#95e5c5"><path d="M16 20h15v10a2 2 0 0 1-2 2H18a2 2 0 0 1-2-2zM16 18a7.5 7.5 0 0 1 15 0z" fill="currentColor"/><path d="m18 12-2-3m13 3 2-3" stroke="currentColor" stroke-width="1.5"/><circle cx="20" cy="16" r="1" fill="#12242b"/><circle cx="27" cy="16" r="1" fill="#12242b"/></g><path d="M46 11v26" stroke="#a6b2cf" stroke-opacity=".2"/><text x="58" y="29" fill="#f0efff" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">x86_64 · APK</text><path d="M226 15v15m-5-5 5 5 5-5m-12 8h14" fill="none" stroke="#95e5c5" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
