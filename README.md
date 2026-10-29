@@ -1,75 +1,65 @@
-<p align="center">
-  <img src="tunila-banner.svg" alt="Tunila — ویندوز و اندروید" width="100%">
-</p>
+<p align="center"><img src="tunila-banner.svg" alt="Tunila — ویندوز و اندروید" width="100%"></p>
 
 <div dir="rtl">
 
-# تونیلا
+# دانلود Tunila
 
 لینک اشتراکت را اضافه کن، سرورت را انتخاب کن و وصل شو.
 
-**[دانلود و جزئیات نسخهٔ جدید](https://github.com/SevinEW/Tunila-Releases/releases/tag/v0.7.26-beta.1)** · [راهنمای استفاده](SUPPORT.md) · [گزارش مشکل](https://github.com/SevinEW/Tunila-Releases/issues)
+**نسخهٔ ۰٫۷٫۳۳ بتا** · [تغییرات نسخه](https://github.com/SevinEW/Tunila-Releases/releases/tag/v0.7.33-beta.1) · [راهنما](SUPPORT.md) · [گزارش مشکل](https://github.com/SevinEW/Tunila-Releases/issues)
 
-## دانلود نسخهٔ ۰٫۷٫۲۶ بتا
-
-سیستم‌عاملت را انتخاب کن. دکمه‌های زیر مستقیماً فایل نصب را دانلود می‌کنند.
+## فایل مناسب دستگاهت
 
 <table>
-<tr><th align="right">سیستم‌عامل</th><th align="center">فایل نصب</th><th align="right">کدام را انتخاب کنم؟</th></tr>
-<tr><td><strong>Android</strong><br>اندروید ۸ و بالاتر<br><sub>۰٫۷٫۲۶ بتا · APK امضاشده</sub></td><td align="center">
-<a href="https://github.com/SevinEW/Tunila-Releases/releases/download/v0.7.26-beta.1/Tunila-0.7.26-beta.1-android-arm64.apk"><img src="assets/downloads/android-arm64.svg" width="280" alt="دانلود Android ARM64 — پیشنهاد برای گوشی‌های جدید"></a><br>
-<a href="https://github.com/SevinEW/Tunila-Releases/releases/download/v0.7.26-beta.1/Tunila-0.7.26-beta.1-android-armv7.apk"><img src="assets/downloads/android-armv7.svg" width="280" alt="دانلود Android ARMv7 — گوشی‌های ۳۲ بیتی"></a><br>
-<a href="https://github.com/SevinEW/Tunila-Releases/releases/download/v0.7.26-beta.1/Tunila-0.7.26-beta.1-android-x86_64.apk"><img src="assets/downloads/android-x64.svg" width="280" alt="دانلود Android x86_64 — شبیه‌سازهای سازگار"></a>
-</td><td><strong>ARM64</strong>: بیشتر گوشی‌های جدید؛ از جمله Galaxy S25 Ultra.<br><br><strong>ARMv7</strong>: گوشی با اندروید ۳۲ بیتی.<br><br><strong>x86_64</strong>: شبیه‌ساز یا دستگاه با این معماری.</td></tr>
-<tr><td><strong>Windows</strong><br>نسخهٔ ۶۴ بیتی<br><sub>۰٫۷٫۲۶ بتا · نصب‌کنندهٔ EXE</sub></td><td align="center">
-<a href="https://github.com/SevinEW/Tunila-Releases/releases/download/v0.7.26-beta.1/Tunila-Setup-0.7.26-beta.1-win-x64.exe"><img src="assets/downloads/windows-x64.svg" width="280" alt="دانلود نصب‌کننده Windows x64"></a>
-</td><td>برای کامپیوتر با ویندوز x64.<br>نصب‌کننده فعلاً گواهی تجاری ندارد.<br>Windows x86 و ARM64 در این نسخه به‌روز نشده‌اند.</td></tr>
+<tr><th align="right">سیستم‌عامل</th><th align="center">دانلود مستقیم</th><th align="right">راهنمای انتخاب</th></tr>
+<tr><td><strong>Android</strong><br><sub>اندروید ۸ و بالاتر</sub></td><td align="center">
+<a href="https://github.com/SevinEW/Tunila-Releases/releases/download/v0.7.33-beta.1/Tunila-0.7.33-beta.1-android-arm64.apk"><img src="assets/downloads/android-arm64.svg" width="230" alt="دانلود APK ARM64"></a><br>
+<a href="https://github.com/SevinEW/Tunila-Releases/releases/download/v0.7.33-beta.1/Tunila-0.7.33-beta.1-android-armv7.apk"><img src="assets/downloads/android-armv7.svg" width="230" alt="دانلود APK ARMv7"></a><br>
+<a href="https://github.com/SevinEW/Tunila-Releases/releases/download/v0.7.33-beta.1/Tunila-0.7.33-beta.1-android-x86_64.apk"><img src="assets/downloads/android-x64.svg" width="230" alt="دانلود APK x86_64"></a>
+</td><td><strong>ARM64</strong> — بیشتر گوشی‌های جدید؛ انتخاب مناسب S25 Ultra.<br><br><strong>ARMv7</strong> — اندروید ۳۲ بیتی.<br><br><strong>x86_64</strong> — شبیه‌سازهای سازگار.</td></tr>
+<tr><td><strong>Windows</strong><br><sub>ویندوز ۶۴ بیتی · x64</sub></td><td align="center">
+<strong>۰٫۷٫۳۳ ساخته شده است</strong><br>بارگذاری فایل در حال انجام است.<br><a href="https://github.com/SevinEW/Tunila-Releases/releases/tag/v0.7.26-beta.1">نسخهٔ قبلی ویندوز: ۰٫۷٫۲۶</a>
+</td><td>نصب‌کنندهٔ کامل؛ برنامه و سرویس اتصال را نصب می‌کند.<br>برای ارتقا، همین فایل را اجرا کن.<br><sub>فعلاً بدون گواهی تجاری امضای ویندوز.</sub></td></tr>
 </table>
 
-**ارتقای اندروید:** فایل جدید را روی نسخهٔ قبلی نصب کن؛ نیازی به حذف برنامه نیست. امضای انتشار و شناسهٔ برنامه حفظ شده‌اند.
+**نصب مجدد لازم نیست:** نسخهٔ جدید را روی نسخهٔ رسمی قبلی نصب کن. اشتراک‌ها و تنظیماتت حفظ می‌شوند.
 
-[تغییرات و نتیجهٔ آزمون‌ها](https://github.com/SevinEW/Tunila-Releases/releases/tag/v0.7.26-beta.1) · [بررسی صحت دانلود — SHA256SUMS](https://github.com/SevinEW/Tunila-Releases/releases/download/v0.7.26-beta.1/SHA256SUMS) · [راهنمای معماری‌ها](DOWNLOADS.md)
+[صحت فایل‌های اندروید](https://github.com/SevinEW/Tunila-Releases/releases/download/v0.7.33-beta.1/SHA256SUMS) · [معماری‌ها و نسخه‌های قدیمی](DOWNLOADS.md)
 
-> این نسخه برای تست است. دو آزمون هدفمند اشتراک و اتصال روی شبیه‌ساز اندروید ۱۴ موفق بوده‌اند؛ سازگاری همهٔ گوشی‌ها، شبکه‌ها و پروتکل‌ها هنوز تأیید نشده است. جزئیات محدودیت‌ها در صفحهٔ انتشار آمده است.
+## در این نسخه
 
-## شروع استفاده
+- مصرف دانلود و آپلود اتصال، با صفر شدن پس از قطع.
+- حجم و اعتبار باقی‌ماندهٔ اشتراک؛ نمایش نامحدود و پایان اعتبار.
+- تازه‌سازی اطلاعات اشتراک هر ۵ دقیقه هنگام حضور در برنامه، اگر سرویس‌دهنده اطلاعات را ارائه کند.
+- بهبود اندازه‌گیری پینگ و کاهش کارهای تصویری روی دستگاه‌های کم‌توان.
+- پرچم پارچه‌ای کارت سرورها و چیدمان تازهٔ صفحهٔ اصلی.
 
-1. برنامه را نصب کن و «افزودن» را بزن.
-2. لینک اشتراک را وارد کن و برایش نام بگذار.
-3. سرور دلخواه یا «انتخاب سریع‌ترین» را انتخاب کن و متصل شو.
+## شروع سریع
 
-هر اشتراک لیست خودش را دارد. کانفیگ‌های تکی در «دیفالت» می‌مانند.
+۱. برنامه را نصب کن و «افزودن» را بزن.  
+۲. لینک اشتراک را وارد کن و برایش نام بگذار.  
+۳. یک سرور یا «انتخاب سریع‌ترین» را انتخاب کن و وصل شو.
 
-اندروید ۸ یا بالاتر و Android System WebView به‌روز لازم است. مجوز VPN خود اندروید هنگام اولین اتصال نمایش داده می‌شود. [امکانات و محدودهٔ نسخهٔ اندروید](https://github.com/SevinEW/Tunila-Releases/releases/tag/v0.7.26-beta.1)
-
-## امکانات نسخهٔ ویندوز
-
-- **اشتراک‌ها:** به‌روزرسانی، ویرایش، حذف و اشتراک‌گذاری با لینک یا QR.
-- **سرورها:** بررسی تأخیر، انتخاب سریع‌ترین و یادآوری آخرین سرور متصل‌شده.
-- **اتصال:** TUN سراسری؛ تنظیمات پیشرفته در بخش‌های جداگانه.
-- **کانفیگ‌ها:** Xray، Hysteria2 و WireGuard، با تنظیمات انتقال و گواهی‌ها.
-
-سازگاری هر کانفیگ به پروتکل، تنظیمات و سرور آن بستگی دارد.
-
-## پشتیبانی
-
-برای [گزارش مشکل](https://github.com/SevinEW/Tunila-Releases/issues)، نسخهٔ برنامه و سیستم‌عامل، مراحل تکرار و متن خطا را بنویس. **لینک ساب، رمز و کلید خصوصی را نفرست.**
-
-[نصب و رفع اشکال](SUPPORT.md) · [حریم خصوصی و امنیت](SECURITY.md)
+کانفیگ‌های تکی در «دیفالت» هستند؛ هر اشتراک لیست جدا دارد.
 
 <details>
-<summary>دربارهٔ نسخهٔ آزمایشی</summary>
+<summary>وضعیت آزمون و سازگاری</summary>
 
-نسخهٔ آزمایشی اندروید و ساخت‌های اولیهٔ Windows x86 و ARM64 نیز منتشر شده‌اند. وضعیت آزمون هر بسته را در [صفحهٔ نسخه‌ها](DOWNLOADS.md) بخوان.
+این انتشار بتاست. بررسی‌های ضروری اندروید روی شبیه‌ساز انجام شده‌اند. نسخهٔ ویندوز ساخته شده و آزمون‌های منطقی و بررسی بسته‌بندی را گذرانده؛ نصب و اتصال زندهٔ آن در این انتشار آزمایش نشده است.
 
-آزمون نصب و اتصال روی سیستم‌های هدف هنوز کامل نشده است. این نسخه کیل‌سوییچ دائمی ندارد؛ با قطع تونل، اینترنت مستقیم در دسترس قرار می‌گیرد.
+Windows x86 و ARM64 هنوز نسخهٔ تازه ندارند. macOS و Linux فعلاً ارائه نمی‌شوند. [جزئیات نسخه‌ها](DOWNLOADS.md)
 
-فایل SHA256 کنار نصب‌کننده برای بررسی صحت دانلود است و جای امضای دیجیتال ناشر را نمی‌گیرد.
+با قطع تونل، اینترنت مستقیم در دسترس قرار می‌گیرد؛ این نسخه کیل‌سوییچ دائمی ندارد.
 
 </details>
 
----
+## پشتیبانی
 
-این مخزن فقط برای دانلود و راهنماست. کد اختصاصی Tunila عمومی نیست. مجوز اجزای شخص ثالث و منبع هستهٔ اصلاح‌شده همراه بسته ارائه می‌شوند. [حقوق نرم‌افزار](LICENSE.txt)
+[راهنمای نصب](SUPPORT.md) · [حریم خصوصی](SECURITY.md) · [ثبت مشکل](https://github.com/SevinEW/Tunila-Releases/issues)
+
+هنگام گزارش مشکل، نسخهٔ برنامه و سیستم‌عامل را بنویس. **لینک ساب، رمز و کلید خصوصی را منتشر نکن.**
+
+---
+این مخزن فقط فایل نصب و راهنما را منتشر می‌کند؛ کد اختصاصی Tunila خصوصی است. [مجوزها](LICENSE.txt)
 
 </div>
