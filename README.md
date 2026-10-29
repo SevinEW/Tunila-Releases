@@ -18,7 +18,7 @@
 <a href="https://github.com/SevinEW/Tunila-Releases/releases/download/v0.7.33-beta.1/Tunila-0.7.33-beta.1-android-x86_64.apk"><img src="assets/downloads/android-x64.svg" width="230" alt="دانلود APK x86_64"></a>
 </td><td><strong>ARM64</strong> — بیشتر گوشی‌های جدید؛ انتخاب مناسب S25 Ultra.<br><br><strong>ARMv7</strong> — اندروید ۳۲ بیتی.<br><br><strong>x86_64</strong> — شبیه‌سازهای سازگار.</td></tr>
 <tr><td><strong>Windows</strong><br><sub>ویندوز ۶۴ بیتی · x64</sub></td><td align="center">
-<strong>۰٫۷٫۳۳ ساخته شده است</strong><br>بارگذاری فایل در حال انجام است.<br><a href="https://github.com/SevinEW/Tunila-Releases/releases/tag/v0.7.26-beta.1">نسخهٔ قبلی ویندوز: ۰٫۷٫۲۶</a>
+<strong>۰٫۷٫۳۳ ساخته شده است</strong><br>بارگذاری نسخهٔ جدید هنوز کامل نشده.<br><a href="https://github.com/SevinEW/Tunila-Releases/releases/tag/v0.7.26-beta.1"><img src="assets/downloads/windows-x64.svg" width="230" alt="نسخهٔ قبلی Windows x64 — ۰٫۷٫۲۶"></a><br><sub>دکمهٔ بالا: نسخهٔ قبلی ۰٫۷٫۲۶</sub>
 </td><td>نصب‌کنندهٔ کامل؛ برنامه و سرویس اتصال را نصب می‌کند.<br>برای ارتقا، همین فایل را اجرا کن.<br><sub>فعلاً بدون گواهی تجاری امضای ویندوز.</sub></td></tr>
 </table>
 
