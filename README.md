@@ -6,48 +6,57 @@
 
 لینک اشتراکت را اضافه کن، سرورت را انتخاب کن و وصل شو.
 
-**نسخهٔ ۰٫۷٫۳۳ بتا** · [تغییرات نسخه](https://github.com/SevinEW/Tunila-Releases/releases/tag/v0.7.33-beta.1) · [راهنما](SUPPORT.md) · [گزارش مشکل](https://github.com/SevinEW/Tunila-Releases/issues)
+[تغییرات اندروید ۰٫۷٫۳۹](https://github.com/SevinEW/Tunila-Releases/releases/tag/v0.7.39-beta.1) · [راهنمای نصب](SUPPORT.md) · [گزارش مشکل](https://github.com/SevinEW/Tunila-Releases/issues)
+
+</div>
+
+<div dir="rtl">
 
 ## فایل مناسب دستگاهت
 
 <table>
-<tr><th align="right">سیستم‌عامل</th><th align="center">دانلود مستقیم</th><th align="right">راهنمای انتخاب</th></tr>
-<tr><td><strong>Android</strong><br><sub>اندروید ۸ و بالاتر</sub></td><td align="center">
-<a href="https://github.com/SevinEW/Tunila-Releases/releases/download/v0.7.33-beta.1/Tunila-0.7.33-beta.1-android-arm64.apk"><img src="assets/downloads/android-arm64.svg" width="230" alt="دانلود APK ARM64"></a><br>
-<a href="https://github.com/SevinEW/Tunila-Releases/releases/download/v0.7.33-beta.1/Tunila-0.7.33-beta.1-android-armv7.apk"><img src="assets/downloads/android-armv7.svg" width="230" alt="دانلود APK ARMv7"></a><br>
-<a href="https://github.com/SevinEW/Tunila-Releases/releases/download/v0.7.33-beta.1/Tunila-0.7.33-beta.1-android-x86_64.apk"><img src="assets/downloads/android-x64.svg" width="230" alt="دانلود APK x86_64"></a>
-</td><td><strong>ARM64</strong> — مناسب بیشتر گوشی‌ها و تبلت‌های جدید با اندروید ۶۴ بیتی.<br><br><strong>ARMv7</strong> — برای دستگاه‌هایی با اندروید ۳۲ بیتی.<br><br><strong>x86_64</strong> — برای شبیه‌سازها و دستگاه‌های اندرویدی با معماری x86_64.</td></tr>
-<tr><td><strong>Windows</strong><br><sub>ویندوز ۶۴ بیتی · x64</sub></td><td align="center">
-<strong>۰٫۷٫۳۳ ساخته شده است</strong><br>بارگذاری نسخهٔ جدید هنوز کامل نشده.<br><a href="https://github.com/SevinEW/Tunila-Releases/releases/tag/v0.7.26-beta.1"><img src="assets/downloads/windows-x64.svg" width="230" alt="نسخهٔ قبلی Windows x64 — ۰٫۷٫۲۶"></a><br><sub>دکمهٔ بالا: نسخهٔ قبلی ۰٫۷٫۲۶</sub>
-</td><td>نصب‌کنندهٔ کامل؛ برنامه و سرویس اتصال را نصب می‌کند.<br>برای ارتقا، همین فایل را اجرا کن.<br><sub>فعلاً بدون گواهی تجاری امضای ویندوز.</sub></td></tr>
+<tr><th align="right">سیستم‌عامل</th><th align="center">دانلود مستقیم</th><th align="right">مناسب برای</th></tr>
+<tr><td rowspan="3"><strong>Android</strong><br><sub>۰٫۷٫۳۹ بتا · اندروید ۸ به بالا</sub></td><td align="center"><a href="https://github.com/SevinEW/Tunila-Releases/releases/download/v0.7.39-beta.1/Tunila-0.7.39-beta.1-android-arm64.apk"><img src="https://raw.githubusercontent.com/SevinEW/Tunila-Releases/main/assets/downloads/android-arm64.svg" width="230" alt="دانلود اندروید ARM64"></a></td><td><strong>بیشتر گوشی‌های جدید</strong><br>اندروید ۶۴ بیتی · انتخاب پیشنهادی</td></tr>
+<tr><td align="center"><a href="https://github.com/SevinEW/Tunila-Releases/releases/download/v0.7.39-beta.1/Tunila-0.7.39-beta.1-android-armv7.apk"><img src="https://raw.githubusercontent.com/SevinEW/Tunila-Releases/main/assets/downloads/android-armv7.svg" width="230" alt="دانلود اندروید ARMv7"></a></td><td>دستگاه‌های دارای اندروید ۳۲ بیتی</td></tr>
+<tr><td align="center"><a href="https://github.com/SevinEW/Tunila-Releases/releases/download/v0.7.39-beta.1/Tunila-0.7.39-beta.1-android-x86_64.apk"><img src="https://raw.githubusercontent.com/SevinEW/Tunila-Releases/main/assets/downloads/android-x64.svg" width="230" alt="دانلود اندروید x86_64"></a></td><td>شبیه‌سازها و دستگاه‌های سازگار با x86_64</td></tr>
+<tr><td><strong>Windows</strong><br><sub>۰٫۷٫۲۶ بتا · نسخهٔ قدیمی</sub></td><td align="center"><a href="https://github.com/SevinEW/Tunila-Releases/releases/download/v0.7.26-beta.1/Tunila-Setup-0.7.26-beta.1-win-x64.exe"><img src="https://raw.githubusercontent.com/SevinEW/Tunila-Releases/main/assets/downloads/windows-x64.svg" width="230" alt="دانلود ویندوز x64 نسخه قدیمی ۰٫۷٫۲۶"></a></td><td>ویندوز x64<br><strong>نسخهٔ جدید ویندوز هنوز در انتشار عمومی قرار نگرفته است.</strong></td></tr>
 </table>
 
-**نصب مجدد لازم نیست:** نسخهٔ جدید را روی نسخهٔ رسمی قبلی نصب کن. اشتراک‌ها و تنظیماتت حفظ می‌شوند.
+**برای آپدیت، برنامهٔ قبلی را حذف نکن.** فایل مناسب دستگاهت را دریافت و روی نسخهٔ رسمی قبلی نصب کن.
 
-[صحت فایل‌های اندروید](https://github.com/SevinEW/Tunila-Releases/releases/download/v0.7.33-beta.1/SHA256SUMS) · [معماری‌ها و نسخه‌های قدیمی](DOWNLOADS.md)
+<details>
+<summary>دانلود APK کامل نمی‌شود؟</summary>
 
-## در این نسخه
+[دانلود جایگزین ARM64 به‌صورت ZIP](https://github.com/SevinEW/Tunila-Releases/releases/download/v0.7.39-beta.1/Tunila-0.7.39-beta.1-android-arm64.zip) — فایل را استخراج کن و APK داخل آن را نصب کن. این فایل همان APK رسمی است.
 
-- مصرف دانلود و آپلود اتصال، با صفر شدن پس از قطع.
-- حجم و اعتبار باقی‌ماندهٔ اشتراک؛ نمایش نامحدود و پایان اعتبار.
-- تازه‌سازی اطلاعات اشتراک هر ۵ دقیقه هنگام حضور در برنامه، اگر سرویس‌دهنده اطلاعات را ارائه کند.
-- بهبود اندازه‌گیری پینگ و کاهش کارهای تصویری روی دستگاه‌های کم‌توان.
-- پرچم پارچه‌ای کارت سرورها و چیدمان تازهٔ صفحهٔ اصلی.
+</details>
+
+[بررسی صحت فایل‌های اندروید](https://github.com/SevinEW/Tunila-Releases/releases/download/v0.7.39-beta.1/SHA256SUMS-Android.txt) · [نسخه‌های پیشین](https://github.com/SevinEW/Tunila-Releases/releases)
+
+</div>
+
+<div dir="rtl">
 
 ## شروع سریع
 
-۱. برنامه را نصب کن و «افزودن» را بزن.  
-۲. لینک اشتراک را وارد کن و برایش نام بگذار.  
+۱. نسخهٔ مناسب دستگاهت را نصب کن.  
+۲. در برنامه «افزودن» را بزن و لینک اشتراکت را وارد کن.  
 ۳. یک سرور یا «انتخاب سریع‌ترین» را انتخاب کن و وصل شو.
 
-کانفیگ‌های تکی در «دیفالت» هستند؛ هر اشتراک لیست جدا دارد.
+## تغییرات اندروید ۰٫۷٫۳۹
+
+- جدا شدن زمان راه‌اندازی اتصال از اندازه‌گیری پینگ.
+- پخش انیمیشن آغازین فقط در شروع برنامه.
+- حذف همهٔ کانفیگ‌های دیفالت با تأیید کاربر.
+- اصلاح حاشیهٔ تب‌ها، سربرگ پنجره‌ها و انتخاب ناخواستهٔ متن.
+- توقف فعالیت‌های تصویری در پس‌زمینه و سبک‌تر شدن جلوه‌ها روی دستگاه‌های کم‌توان.
 
 <details>
 <summary>وضعیت آزمون و سازگاری</summary>
 
-این انتشار بتاست. بررسی‌های ضروری اندروید روی شبیه‌ساز انجام شده‌اند. نسخهٔ ویندوز ساخته شده و آزمون‌های منطقی و بررسی بسته‌بندی را گذرانده؛ نصب و اتصال زندهٔ آن در این انتشار آزمایش نشده است.
+این نسخه بتاست. ساخت، بررسی بسته و تست اشتراک اندروید موفق بود؛ آزمون کامل اتصال به‌دلیل توقف شبیه‌ساز تکمیل نشد.
 
-Windows x86 و ARM64 هنوز نسخهٔ تازه ندارند. macOS و Linux فعلاً ارائه نمی‌شوند. [جزئیات نسخه‌ها](DOWNLOADS.md)
+نسخهٔ ویندوز در جدول، نسخهٔ قدیمی ۰٫۷٫۲۶ است. برای iOS، macOS و Linux در این صفحه فایل نصبی ارائه نمی‌شود.
 
 با قطع تونل، اینترنت مستقیم در دسترس قرار می‌گیرد؛ این نسخه کیل‌سوییچ دائمی ندارد.
 
@@ -59,7 +68,6 @@ Windows x86 و ARM64 هنوز نسخهٔ تازه ندارند. macOS و Linux �
 
 هنگام گزارش مشکل، نسخهٔ برنامه و سیستم‌عامل را بنویس. **لینک ساب، رمز و کلید خصوصی را منتشر نکن.**
 
----
 این مخزن فقط فایل نصب و راهنما را منتشر می‌کند؛ کد اختصاصی Tunila خصوصی است. [مجوزها](LICENSE.txt)
 
 </div>
