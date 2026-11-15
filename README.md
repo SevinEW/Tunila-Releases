@@ -6,7 +6,7 @@
 
 لینک اشتراکت را اضافه کن، سرورت را انتخاب کن و وصل شو.
 
-[تغییرات اندروید ۰٫۷٫۴۵](https://github.com/SevinEW/Tunila-Releases/releases/tag/v0.7.45-beta.1) · [راهنمای نصب](SUPPORT.md) · [گزارش مشکل](https://github.com/SevinEW/Tunila-Releases/issues)
+[تغییرات اندروید ۰٫۷٫۴۶](https://github.com/SevinEW/Tunila-Releases/releases/tag/v0.7.46-beta.1) · [راهنمای نصب](SUPPORT.md) · [گزارش مشکل](https://github.com/SevinEW/Tunila-Releases/issues)
 
 </div>
 
@@ -16,15 +16,15 @@
 
 <table>
 <tr><th align="right">سیستم‌عامل</th><th align="center">دانلود مستقیم</th><th align="right">مناسب برای</th></tr>
-<tr><td rowspan="3"><strong>Android</strong><br><sub>۰٫۷٫۴۵ بتا · اندروید ۸ به بالا</sub></td><td align="center"><a href="https://github.com/SevinEW/Tunila-Releases/releases/download/v0.7.45-beta.1/Tunila-0.7.45-beta.1-android-arm64.apk"><img src="https://raw.githubusercontent.com/SevinEW/Tunila-Releases/main/assets/downloads/android-arm64.svg" width="230" alt="دانلود اندروید ARM64"></a></td><td><strong>بیشتر گوشی‌های جدید</strong><br>اندروید ۶۴ بیتی · انتخاب پیشنهادی</td></tr>
-<tr><td align="center"><a href="https://github.com/SevinEW/Tunila-Releases/releases/download/v0.7.45-beta.1/Tunila-0.7.45-beta.1-android-armv7.apk"><img src="https://raw.githubusercontent.com/SevinEW/Tunila-Releases/main/assets/downloads/android-armv7.svg" width="230" alt="دانلود اندروید ARMv7"></a></td><td>دستگاه‌های دارای اندروید ۳۲ بیتی</td></tr>
-<tr><td align="center"><a href="https://github.com/SevinEW/Tunila-Releases/releases/download/v0.7.45-beta.1/Tunila-0.7.45-beta.1-android-x86_64.apk"><img src="https://raw.githubusercontent.com/SevinEW/Tunila-Releases/main/assets/downloads/android-x64.svg" width="230" alt="دانلود اندروید x86_64"></a></td><td>شبیه‌سازها و دستگاه‌های سازگار با x86_64</td></tr>
+<tr><td rowspan="3"><strong>Android</strong><br><sub>۰٫۷٫۴۶ بتا · اندروید ۸ به بالا</sub></td><td align="center"><a href="https://github.com/SevinEW/Tunila-Releases/releases/download/v0.7.46-beta.1/Tunila-0.7.46-beta.1-android-arm64.apk"><img src="https://raw.githubusercontent.com/SevinEW/Tunila-Releases/main/assets/downloads/android-arm64.svg" width="230" alt="دانلود اندروید ARM64"></a></td><td><strong>بیشتر گوشی‌های جدید</strong><br>اندروید ۶۴ بیتی · انتخاب پیشنهادی</td></tr>
+<tr><td align="center"><a href="https://github.com/SevinEW/Tunila-Releases/releases/download/v0.7.46-beta.1/Tunila-0.7.46-beta.1-android-armv7.apk"><img src="https://raw.githubusercontent.com/SevinEW/Tunila-Releases/main/assets/downloads/android-armv7.svg" width="230" alt="دانلود اندروید ARMv7"></a></td><td>دستگاه‌های دارای اندروید ۳۲ بیتی</td></tr>
+<tr><td align="center"><a href="https://github.com/SevinEW/Tunila-Releases/releases/download/v0.7.46-beta.1/Tunila-0.7.46-beta.1-android-x86_64.apk"><img src="https://raw.githubusercontent.com/SevinEW/Tunila-Releases/main/assets/downloads/android-x64.svg" width="230" alt="دانلود اندروید x86_64"></a></td><td>شبیه‌سازها و دستگاه‌های سازگار با x86_64</td></tr>
 <tr><td><strong>Windows</strong><br><sub>۰٫۷٫۲۶ بتا · نسخهٔ قدیمی</sub></td><td align="center"><a href="https://github.com/SevinEW/Tunila-Releases/releases/download/v0.7.26-beta.1/Tunila-Setup-0.7.26-beta.1-win-x64.exe"><img src="https://raw.githubusercontent.com/SevinEW/Tunila-Releases/main/assets/downloads/windows-x64.svg" width="230" alt="دانلود ویندوز x64 نسخه قدیمی ۰٫۷٫۲۶"></a></td><td>ویندوز x64<br><strong>نسخهٔ جدید ویندوز هنوز در انتشار عمومی قرار نگرفته است.</strong></td></tr>
 </table>
 
 **برای آپدیت، برنامهٔ قبلی را حذف نکن.** فایل مناسب دستگاهت را دریافت و روی نسخهٔ رسمی قبلی نصب کن.
 
-[بررسی صحت فایل‌های اندروید](https://github.com/SevinEW/Tunila-Releases/releases/download/v0.7.45-beta.1/SHA256SUMS-Android.txt) · [نسخه‌های پیشین](https://github.com/SevinEW/Tunila-Releases/releases)
+[بررسی صحت فایل‌های اندروید](https://github.com/SevinEW/Tunila-Releases/releases/download/v0.7.46-beta.1/SHA256SUMS-Android.txt) · [نسخه‌های پیشین](https://github.com/SevinEW/Tunila-Releases/releases)
 
 </div>
 
@@ -36,7 +36,7 @@
 ۲. در برنامه «افزودن» را بزن و لینک اشتراکت را وارد کن.  
 ۳. یک سرور یا «انتخاب سریع‌ترین» را انتخاب کن و وصل شو.
 
-## تغییرات اندروید ۰٫۷٫۴۵
+## تغییرات اندروید ۰٫۷٫۴۶
 
 - اصلاح مسیر DNS برای سرورهایی که خروجی IPv6 سالم ندارند.
 - حفظ نام دامنهٔ مقصد برای سازگاری اتصال با مسیریابی سرور.
