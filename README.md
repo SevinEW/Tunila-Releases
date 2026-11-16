@@ -19,7 +19,7 @@
 <tr><td rowspan="3"><strong>Android</strong><br><sub>۰٫۷٫۴۶ بتا · اندروید ۸ به بالا</sub></td><td align="center"><a href="https://github.com/SevinEW/Tunila-Releases/releases/download/v0.7.46-beta.1/Tunila-0.7.46-beta.1-android-arm64.apk"><img src="https://raw.githubusercontent.com/SevinEW/Tunila-Releases/main/assets/downloads/android-arm64.svg" width="230" alt="دانلود اندروید ARM64"></a></td><td><strong>بیشتر گوشی‌های جدید</strong><br>اندروید ۶۴ بیتی · انتخاب پیشنهادی</td></tr>
 <tr><td align="center"><a href="https://github.com/SevinEW/Tunila-Releases/releases/download/v0.7.46-beta.1/Tunila-0.7.46-beta.1-android-armv7.apk"><img src="https://raw.githubusercontent.com/SevinEW/Tunila-Releases/main/assets/downloads/android-armv7.svg" width="230" alt="دانلود اندروید ARMv7"></a></td><td>دستگاه‌های دارای اندروید ۳۲ بیتی</td></tr>
 <tr><td align="center"><a href="https://github.com/SevinEW/Tunila-Releases/releases/download/v0.7.46-beta.1/Tunila-0.7.46-beta.1-android-x86_64.apk"><img src="https://raw.githubusercontent.com/SevinEW/Tunila-Releases/main/assets/downloads/android-x64.svg" width="230" alt="دانلود اندروید x86_64"></a></td><td>شبیه‌سازها و دستگاه‌های سازگار با x86_64</td></tr>
-<tr><td><strong>Windows</strong><br><sub>۰٫۷٫۲۶ بتا · نسخهٔ قدیمی</sub></td><td align="center"><a href="https://github.com/SevinEW/Tunila-Releases/releases/download/v0.7.26-beta.1/Tunila-Setup-0.7.26-beta.1-win-x64.exe"><img src="https://raw.githubusercontent.com/SevinEW/Tunila-Releases/main/assets/downloads/windows-x64.svg" width="230" alt="دانلود ویندوز x64 نسخه قدیمی ۰٫۷٫۲۶"></a></td><td>ویندوز x64<br><strong>نسخهٔ جدید ویندوز هنوز در انتشار عمومی قرار نگرفته است.</strong></td></tr>
+<tr><td><strong>Windows</strong><br><sub>۰٫۷٫۴۶ بتا · Windows 10 / 11</sub></td><td align="center"><a href="https://github.com/SevinEW/Tunila-Releases/releases/download/v0.7.46-beta.1/Tunila-Setup-0.7.46-beta.1-win-x64.exe"><img src="https://raw.githubusercontent.com/SevinEW/Tunila-Releases/main/assets/downloads/windows-x64.svg" width="230" alt="دانلود ویندوز x64 ۰٫۷٫۴۶"></a></td><td>ویندوز x64<br>پردازنده‌های Intel و AMD</td></tr>
 </table>
 
 **برای آپدیت، برنامهٔ قبلی را حذف نکن.** فایل مناسب دستگاهت را دریافت و روی نسخهٔ رسمی قبلی نصب کن.
@@ -48,7 +48,7 @@
 
 این نسخه بتاست. ساخت، بررسی امضای هر سه APK و آزمون‌های اشتراک، تونل TCP/UDP، بازیابی اتصال و تعویض سرور در شبیه‌ساز اندروید موفق بودند. تست صفحات چند سرویس از جمله Google Search نیز با یک سرور آزمایشی انجام شد؛ سازگاری همهٔ گوشی‌ها و شبکه‌ها هنوز تضمین نمی‌شود.
 
-نسخهٔ ویندوز در جدول، نسخهٔ قدیمی ۰٫۷٫۲۶ است. برای iOS، macOS و Linux در این صفحه فایل نصبی ارائه نمی‌شود.
+نسخهٔ ویندوز ۰٫۷٫۴۶ ساخته شده و ۴۰ بررسی ضروری را گذرانده است؛ تست اتصال واقعی آن روی دستگاه کاربر هنوز تأیید نشده است. برای iOS، macOS و Linux در این صفحه فایل نصبی ارائه نمی‌شود.
 
 با قطع تونل، اینترنت مستقیم در دسترس قرار می‌گیرد؛ این نسخه کیل‌سوییچ دائمی ندارد.
 
