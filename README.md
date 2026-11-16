@@ -4,6 +4,8 @@
 
 # دانلود Tunila
 
+## [ورود به صفحهٔ دانلود ↗](https://sevinew.github.io/Tunila-Releases/)
+
 لینک اشتراکت را اضافه کن، سرورت را انتخاب کن و وصل شو.
 
 [تغییرات اندروید ۰٫۷٫۴۶](https://github.com/SevinEW/Tunila-Releases/releases/tag/v0.7.46-beta.1) · [راهنمای نصب](SUPPORT.md) · [گزارش مشکل](https://github.com/SevinEW/Tunila-Releases/issues)
